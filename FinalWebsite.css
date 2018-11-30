@@ -1,0 +1,212 @@
+body{
+  background-color: white;
+}
+ /*CSS for ALL HTML pages (Headers and Footers)*/
+#theTime{
+  font-size: 18px;
+  color: black;
+  text-align: center;
+}
+.Welcome{
+  color: #696969;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+#Header1{
+font-family: Courier New;
+background-color: pink;
+background-position: center;
+height: 202px;
+text-align: center;
+font-size: 25px;
+color:#696969;
+}
+.Title{
+  text-transform: capitalize;
+}
+#Navigation,#Footer{
+border: 2px dashed black;
+margin: 15px;
+height: 30px;
+}
+.unorderednav{
+  font-family: Courier New;
+  background-color: pink;
+  height:30px;
+  font-size: 18px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.unorderednav li{
+  text-align: center;
+  display: inline;
+}
+ /*CSS for First HTML page*/
+.Lara{
+  height: 250px;
+  width: 250px;
+  border: 2px dotted black;
+padding: 5px;
+}
+.Header2{
+  text-align: center;
+}
+#Content1{
+  text-align: center;
+  border: 2px dotted black;
+  font-family: Courier New;
+  background-color: #DCDCDC;
+  color: black;
+  height: 285px;
+  width: 1200px;
+  font-size: 15px;
+  margin: auto;
+  padding: 10px;
+}
+.bigText{
+  font-size: 20px;
+}
+#Content2{
+  text-align: left;
+  border: 2px dotted black;
+  font-family: Courier New;
+  background-color: #DCDCDC;
+  color: black;
+  height: 320px;
+  width: 1200px;
+  font-size: 15px;
+  margin: auto;
+  padding: 10px;
+}
+ /*CSS for Second HTML page*/
+.Timbit{
+   height: 250px;
+   width: 250px;
+   border: 2px dotted black;
+   padding: 5px;
+}
+.Timbit2{
+    height: 250px;
+    width: 250px;
+    border: 2px dotted black;
+    padding: 5px;
+}
+.Timbit3{
+     height: 250px;
+     width: 250px;
+     border: 2px dotted black;
+     padding: 5px;
+}
+   .Timbit4{
+     height: 250px;
+     width: 250px;
+     border: 2px dotted black;
+     padding: 5px;
+}
+.Timbit5{
+     height: 250px;
+     width: 250px;
+     border: 2px dotted black;
+     padding: 5px;
+}
+.Timbit6{
+     height: 250px;
+     width: 250px;
+     border: 2px dotted black;
+     padding: 5px;
+}
+.Timbit7{
+     height: 250px;
+     width: 250px;
+     border: 2px dotted black;
+     padding: 5px;
+}
+.Timbit8{
+     height: 250px;
+     width: 250px;
+     border: 2px dotted black;
+     padding: 5px;
+}
+.THeader2{
+   text-align: center;
+ }
+#TContent1{
+   text-align: center;
+   border: 2px dotted black;
+   font-family: Courier New;
+   background-color: #DCDCDC;
+   color: black;
+   height: 420px;
+   width: 1200px;
+   font-size: 15px;
+   margin: auto;
+   padding: 10px;
+ }
+.redText{
+   color: red;
+   font-size: 20px;
+ }
+.blueText{
+   color: blue;
+ }
+  /*CSS for Third HTML page*/
+.SHeader2{
+    text-align: center;
+}
+#SContent1{
+    text-align: center;
+    border: 2px dotted black;
+    font-family: Courier New;
+    background-color: #DCDCDC;
+    color: black;
+    height: 210px;
+    width: 1200px;
+    font-size: 15px;
+    margin: auto;
+    padding: 10px;
+}
+.redText{
+    color: red;
+    font-size: 20px;
+}
+.lineText{
+    text-decoration: underline;
+}
+#SContent2{
+    text-align: center;
+    border: 2px dotted black;
+    font-family: Courier New;
+    background-color: #DCDCDC;
+    color: black;
+    height: 245px;
+    width: 1200px;
+    font-size: 15px;
+    margin: auto;
+    padding: 10px;
+}
+.Pouch{
+       height: 250px;
+       width: 250px;
+       border: 2px dotted black;
+       padding: 5px;
+}
+.Wallet{
+       height: 250px;
+       width: 300px;
+       border: 2px dotted black;
+       padding: 5px;
+}
+.Speedy{
+        height: 250px;
+        width: 300px;
+       border: 2px dotted black;
+       padding: 5px;
+}
+.Duff{
+       height: 250px;
+       width: 300px;
+       border: 2px dotted black;
+       padding: 5px;
+}
